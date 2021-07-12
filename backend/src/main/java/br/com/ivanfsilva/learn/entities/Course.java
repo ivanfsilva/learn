@@ -7,7 +7,7 @@ import java.util.List;
 
 @Entity
 @Table(name = "tb_course")
-public class Course  implements Serializable {
+public class Course implements Serializable {
     private static final long SerialVersionUID = 1L;
 
     @Id
